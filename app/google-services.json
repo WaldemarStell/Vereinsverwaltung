@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "295720656321",
+    "firebase_url": "https://vereinsverwaltung-7cd48.firebaseio.com",
+    "project_id": "vereinsverwaltung-7cd48",
+    "storage_bucket": "vereinsverwaltung-7cd48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295720656321:android:9af7b9dfd40b4430",
+        "android_client_info": {
+          "package_name": "com.verwaltung.verein.vereinsverwaltung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295720656321-4crbqfl4gv4vd2pkup7994npfocnbsi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzOFA1iQmQQ2Uuc-2smImv--M2j8S9oKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
